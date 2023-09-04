@@ -1,6 +1,4 @@
 # git-test
-First GitHub post.
-Hello Odin!
-Hello internet!
-Hello internet!
 
+First GitHub post.
+Odin-Project Course
