@@ -1,0 +1,31 @@
+/* * {
+  color: purple;
+} */
+
+#intro,
+.text,
+.list {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 20px;
+}
+
+#intro {
+  color: aqua;
+  background-color: rgba(29, 40, 120, 1);
+}
+
+.text {
+  color: rgb(51, 191, 209);
+}
+
+.list {
+  color: red;
+}
+
+.text,
+.list {
+  background-color: bisque;
+}
